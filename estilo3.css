@@ -1,0 +1,46 @@
+body
+{
+    background: rgb(217,176,23);
+background: linear-gradient(90deg, rgb(36, 23, 217) 0%, rgb(29, 44, 253) 50%, rgb(22, 38, 180) 100%);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+form
+{
+    background: rgba(255, 254, 197, 0.822);
+    margin: 2%;
+    margin-top: 5%;
+    padding: 3%;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    display: block;  
+}
+.form
+{
+    width: 100%;
+    margin: auto;
+}
+div
+{
+    margin: 20px;
+}
+input
+{
+    width: 100%;
+    font-size: 18px; 
+}
+h1
+{
+    text-align: center;
+    font-size: 700;
+}
+.warnings
+{
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    color: #7c3141;
+    padding-top: 20px;
+}

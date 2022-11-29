@@ -1,0 +1,49 @@
+
+header{
+	background-color: rgb(88, 88, 235);
+	text-align: center;
+	padding: 25px;
+}
+h2{
+	text-align: center;
+	size: 30px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	padding: 4rem;
+}
+nav a{
+	display: inline-block;
+	text-decoration: none;
+	color:white;
+	margin: 0 30px;
+	padding: 5px 15px;
+	border-radius: 30px;
+}
+nav a:hover {
+	background-color: rgb(189, 191, 206);
+	color: #fff;
+}
+img{
+	width: 20rem;
+	
+}
+.Producto{
+	width: 22rem;
+	background-color: rgb(21, 16, 90);
+	padding: 1rem;
+	margin: 1rem;
+	color: white;
+	
+}
+article{
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+	
+}
+h4{
+	color: rgb(226, 217, 210);
+	text-align: center;
+}
+section{
+	background-color: rgb(213, 231, 238);
+}
